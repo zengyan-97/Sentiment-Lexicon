@@ -3,11 +3,11 @@ Yan Zeng, Yangyang Lan, Yazhou Hao, Chen Li, Qinhua Zheng
 
 In this paper, I carefully collected a Sentiment Lexicon, and I tried to make it larger.
 Finally, it consists of: 
-1) 5111 negative words and 2759 positive words majorly collected from the 2 links below.
+1) 5106 negative words and 2759 positive words majorly collected from the 2 links below.
   Subjectivity Lexicon (https://mpqa.cs.pitt.edu/lexicons/subj_lexicon/)
   Opinion lexicon (https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 
-2) 35 negation words and 62 intensifiers collected manually.
+2) 33 negation words and 62 intensifiers collected manually.
   In this repository, we release these two part of our Sentiment Lexicon. 
   You can easily download the other through the above 2 links.
 
