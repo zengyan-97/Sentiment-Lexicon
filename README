@@ -8,17 +8,17 @@ Finally, it consists of:
   Opinion lexicon (https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 
 2) 33 negation words and 62 intensifiers collected manually.
-  In this repository, we release these two part of our Sentiment Lexicon. 
-  You can easily download the other through the above 2 links.
 
 All phases are changed into the form of 'a-b', e.g. 'without-doubt'(intensifier), '2-faced'(negative).
 ********************************************************************************
 
 If you use this resource, please cite: 
 
+(Subjectivity Lexicon)
 Recognizing Contextual Polarity in Phrase-Level Sentiment Analysis
 Theresa Wilson, Janyce Wiebe and Paul Hoffmann 
 
+(Opinion lexicon)
 Mining and Summarizing Customer Reviews
 Minqin Hu and Bing Liu
 
