@@ -1,8 +1,4 @@
-Leveraging Multi-grained Sentiment Lexicon Information for Neural Sequence Models
-Yan Zeng, Yangyang Lan, Yazhou Hao, Chen Li, Qinhua Zheng
-
-In this paper, I carefully collected a Sentiment Lexicon, and I tried to make it larger.
-Finally, it consists of: 
+The Sentiment Lexicon consists of: 
 1) 5106 negative words and 2759 positive words majorly collected from the 2 links below.
   Subjectivity Lexicon (https://mpqa.cs.pitt.edu/lexicons/subj_lexicon/)
   Opinion lexicon (https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
@@ -22,11 +18,5 @@ Theresa Wilson, Janyce Wiebe and Paul Hoffmann
 Mining and Summarizing Customer Reviews
 Minqin Hu and Bing Liu
 
-Leveraging Multi-grained Sentiment Lexicon Information for Neural Sequence Models
-Yan Zeng, Yangyang Lan, Yazhou Hao, Chen Li, Qinhua Zheng
-
 ********************************************************************************
 This repertory aims to save your time to do repetitive work and promote further research in Sentiment Classification. 
-Even using the simple and general method proposed in our paper, sequence models can gain performance improvement with the Sentiment Lexicon. 
-
-
